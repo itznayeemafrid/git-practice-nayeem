@@ -1,6 +1,16 @@
 \# Git Practice Project
 
-\*\*Student Name:\*\* MD. Nayeem Islam  
 
-\*\*Description:\*\* A basic project demonstrating Git branching, merging, and commit workflows.
+
+\## Student Details
+
+\* \*\*Name:\*\* Md. Nayeem Islam
+
+\* \*\*Assignment:\*\* Git \& GitHub Practical
+
+
+
+\## Description
+
+A Python script demonstrating Git repository management, branching strategies, and commit hygiene.
 
