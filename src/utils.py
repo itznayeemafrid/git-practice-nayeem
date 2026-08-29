@@ -1,4 +1,5 @@
-import datetime
+def add(a, b):
+    return a + b
 
-print("Name: Nayeem Islam")
-print("Today's Date:", datetime.date.today())
+def subtract(a, b):
+    return a - b
