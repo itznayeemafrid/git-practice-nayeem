@@ -14,3 +14,13 @@
 
 A Python script demonstrating Git repository management, branching strategies, and commit hygiene.
 
+
+
+
+
+\## How to Run
+
+```bash
+
+python src/main.py
+
