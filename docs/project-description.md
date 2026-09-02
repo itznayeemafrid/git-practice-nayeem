@@ -1,4 +1,3 @@
 # Project Overview
 
-This project is built for the Git & GitHub practical assignment to demonstrate version control techniques.
-
+Practical demonstration of Git and GitHub version control workflows.
