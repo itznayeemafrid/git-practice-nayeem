@@ -1,26 +1,15 @@
-\# Git Practice Project
+# Git Practice Project
 
 
 
-\## Student Details
+## Student Details
 
-\* \*\*Name:\*\* Md. Nayeem Islam
+Name: Md. Nayeem Islam
 
-\* \*\*Assignment:\*\* Git \& GitHub Practical
+Assignment: Git & GitHub Practical
 
 
-
-\## Description
+## Description
 
 A Python script demonstrating Git repository management, branching strategies, and commit hygiene.
-
-
-
-
-
-\## How to Run
-
-```bash
-
-python src/main.py
 
